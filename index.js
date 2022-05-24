@@ -24,5 +24,5 @@ for(personDetail in person){
 }
 allPersonDetail = {...allPersonDetail ,...personDetailAddress}
 console.log(allPersonDetail)
-console.log(person)
+
 
